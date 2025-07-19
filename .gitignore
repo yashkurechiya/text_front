@@ -1,0 +1,36 @@
+# Environment variables
+.env
+.env.*
+
+node_modules/
+# Build output
+build/
+out/
+
+dist/
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Dependency directories
+bower_components/
+
+# Test coverage
+coverage/
+
+# Misc
+*.tgz
+*.zip
+*.tar.gz
+
+# Local history for JetBrains IDEs
+.idea/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# VSCode settings (if you want to ignore all)
+.vscode/
